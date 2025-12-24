@@ -9,7 +9,7 @@
 - response obj to will be transfer to the ResultServlet using sendRedirect() method
 - fullname will be added to the URL that will be handled by the next Servlet
 - In the ResultServlet , we can get the fullname from the request
-- Response will breturn back to the client with the fullname 
+- Response will return back to the client with the fullname 
 
   ### Prerequisites
   - java 25
